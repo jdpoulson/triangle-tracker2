@@ -8,16 +8,24 @@
 
 h1 {
   color: salmon;
+  height: 75px;
+  width: 170px;
 }
 
 label {
-  color: pink;
+  color: green;
+  height: 23px;
+  width: 100px;
 }
 
 p {
   color: orange;
+  width: 250px;
+  height: 50px;
 }
 
 body {
   background-color: violet;
+  margin: 23px;
+  padding: 24px;
 }
