@@ -5,3 +5,19 @@
 .btn {
   display: block;
 }
+
+h1 {
+  color: salmon;
+}
+
+label {
+  color: pink;
+}
+
+p {
+  color: orange;
+}
+
+body {
+  background-color: violet;
+}
